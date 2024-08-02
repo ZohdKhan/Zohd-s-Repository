@@ -3,7 +3,7 @@ This Python project involves the creation of a Sales Prediction Model using publ
 
 There are important 3 files in this directory:
 1. Zohd_Khan_Sales_Prediction.pdf - This is the file of the report associated with this project (all code is still visible in this file).
-2. Monthly Sales Prediction.ipynb - This is the source code file. Installation of Jupyter Notebook required to open and run this file.
+2. Monthly Sales Prediction.ipynb - This is the source code file. Installation of Jupyter Notebook  is required to open and run this file.
 3. mrtssales92-present.xlsx - This is the source data file. 
 
 **INSTRUCTIONS TO RUN CODE**
@@ -14,12 +14,12 @@ There are important 3 files in this directory:
 4. 
    For example, the variable's value should look something like this: f"C:/Users/YourUserName/Desktop/FolderName/{sheet_name}_retail_data.csv"
 
-5. For the variable "csv_file_paths", you can do the same thing as in step 3, but leave the other part of the code "for sheet_name in sheet_names", as well as the square brackets, as is.
+5. For the variable "csv_file_paths", you can do the same thing as in step 3, but leave the part of the code "for sheet_name in sheet_names", as well as the surrounding square brackets, as is.
 
   For example, the structure should look something like this: [f"C:/Users/YourUserName/Desktop/FolderName/{sheet_name}_retail_data.csv for sheet_name in sheet_names]
 
 7. After the file path and the additional logic for these particular variables are appropriately adjusted, the rest of the code should run seamlessly. If you encouncter any issues, I apologize sincerely, as I should have made everything simpler. In such an event, the associated pdf file would still be great for reviewing the code and reading the report aspect of the project.
 
-Thank you for taking the time to view my project. 
+Thank you for taking the time to view my work. 
 
 
