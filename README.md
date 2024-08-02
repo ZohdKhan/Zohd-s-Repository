@@ -6,5 +6,4 @@ Zohd's Personal Projects
 
 Zohd's Notable School Projects
 1. Email Spam Classification Model
-2. 
-3.
+2. Life Expectancy Analysis
