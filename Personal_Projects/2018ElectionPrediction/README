@@ -1,1 +1,9 @@
+This Python project involves the implementation of a Gradient Boosting Classifier to predict the most dominant political affiliation in each county in the United States during the 2018 U.S midterm elections. The source data came from the Harvard Dataverse, with links being available at the start of the pdf file.
 
+Available in this directory is the source code file, which is a Jupyter Notebook file, and the corresponding report file, which is in PDF format. However, the report is embedded/written in the jupyter notebook file itself, so both files are essentially the same from a viewing perspective.
+
+Unfortunately, one of the two source csv files is too large to upload on GitHub, so you won't be able to download all the necessary files to run the code from here.
+
+If you would like for me to send the source csv files directly, or if you have any other questions, please email me at Khanzohd@gmail.com. 
+
+Thank you for taking the time to view my work. 
