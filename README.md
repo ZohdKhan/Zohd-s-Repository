@@ -1,4 +1,6 @@
-**NOTE**: Unfortunately, the display of some of my code for my projects in the corresponding pdf files is being cut off due to formatting issues when I perform the pdf conversion process. However, the reports are embedded/written into corresponding jupyter notebook (.ipynb) files themselves, so the ipynb and pdf files are essentially the same from a viewing perspective. Therefore, it would be most convenient to view the ipynb files instead of the pdf files. I apologize for the inconvenience, but thank you for taking the time to look at my work.
+Hello. Thank you for taking the time to look at my work.
+
+**NOTE ** It is recommended to view the ipynb file version of each personal project for an optimal viewing experience, as some code in the corresponding pdf files is truncated due to issues with ipynb-to-pdf conversion process. 
 
 Zohd's Personal Projects
 1. Average Monthly Sales Prediction
