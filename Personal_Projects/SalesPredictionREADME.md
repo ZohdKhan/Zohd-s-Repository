@@ -18,7 +18,7 @@ There are important 3 files in this directory:
 
   For example, the structure should look something like this: [f"C:/Users/YourUserName/Desktop/FolderName/{sheet_name}_retail_data.csv for sheet_name in sheet_names]
 
-7. After the file path and the additional logic for this particular variables is appropriately adjusted, the rest of the code should run seamlessly. If you encouncter any issues, I apologize sincerely, as I should have made everything more simple. In such an event, the associated pdf file would still be great for reviewing the code and reading the report aspect of the project.
+7. After the file path and the additional logic for these particular variables are appropriately adjusted, the rest of the code should run seamlessly. If you encouncter any issues, I apologize sincerely, as I should have made everything simpler. In such an event, the associated pdf file would still be great for reviewing the code and reading the report aspect of the project.
 
 Thank you for taking the time to view my project. 
 
